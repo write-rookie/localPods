@@ -1,0 +1,6 @@
+framework module gitPod {
+  umbrella header "gitPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

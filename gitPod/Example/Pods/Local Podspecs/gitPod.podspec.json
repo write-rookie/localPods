@@ -1,0 +1,22 @@
+{
+  "name": "gitPod",
+  "version": "0.1.0",
+  "summary": "A short description of gitPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/git/gitPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "git": "827691435"
+  },
+  "source": {
+    "git": "https://github.com/git/gitPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "gitPod/Classes/**/*"
+}
